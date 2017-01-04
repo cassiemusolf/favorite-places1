@@ -1,6 +1,10 @@
 h1 {
+  font-family: cursive;
   text-align: center;
-  color: black;
+  font-size: 50px;
+  font-variant: small-caps;
+  background-color: #def4f2;
+  border-radius: 80%;
 }
 
 p {
@@ -12,6 +16,7 @@ h2 {
   text-align: center;
   color: #000000;
   font-family: cursive;
+  text-decoration: underline;
 }
 
 body {
@@ -21,4 +26,11 @@ body {
 ul {
   font-family: cursive;
   font-size: 20px;
+  font-variant: small-caps;
+}
+
+img {border:1px solid #;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
 }
